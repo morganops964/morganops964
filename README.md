@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Morgan (@morganops964) 👋
 
-<!--
-**morganops964/morganops964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer based in Stockholm. Currently building reliable APIs and data pipelines at Tech Labs.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- 🔭 Writing Go services and FastAPI backends for production systems
+- ⚡ Profiling slow Postgres queries and wrangling Redis caches
+- 📚 Digging into distributed consensus and Linux internals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tech I use daily
+`Go` `Python` `FastAPI` `PostgreSQL` `Redis` `Docker` `Linux` `Git`
+
+#### Connect
+- Drop a line via email: `morganops964@proton.me`
+- Find me on [LinkedIn](https://linkedin.com)
+- Always down to discuss DB performance quirks or good fika spots around town.
